@@ -6,6 +6,21 @@ public class first {
 		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
 		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
 		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		 
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
+		  System.out.print("hello good mornhhhhhhhhhhhhhhhhhhhhhhhhhhhing!!!,jjjjjjjjjj!!!!!!!1");
 	}
 
 }
