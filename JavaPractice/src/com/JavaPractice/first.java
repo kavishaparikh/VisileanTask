@@ -2,7 +2,7 @@ package com.JavaPractice;
 
 public class first {
 	public static void main(String a[]) {
-		  System.out.print("hel");
+		  System.out.print("hello good morning!!!!!!!!!!1");
 	}
 
 }
